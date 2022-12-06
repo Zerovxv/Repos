@@ -1,0 +1,12 @@
+C:\repos\SqlConnectionSolution\PRSLibrary\bin\Debug\net6.0\PRSLibrary.deps.json
+C:\repos\SqlConnectionSolution\PRSLibrary\bin\Debug\net6.0\PRSLibrary.dll
+C:\repos\SqlConnectionSolution\PRSLibrary\bin\Debug\net6.0\PRSLibrary.pdb
+C:\repos\SqlConnectionSolution\PRSLibrary\obj\Debug\net6.0\PRSLibrary.csproj.AssemblyReference.cache
+C:\repos\SqlConnectionSolution\PRSLibrary\obj\Debug\net6.0\PRSLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\SqlConnectionSolution\PRSLibrary\obj\Debug\net6.0\PRSLibrary.AssemblyInfoInputs.cache
+C:\repos\SqlConnectionSolution\PRSLibrary\obj\Debug\net6.0\PRSLibrary.AssemblyInfo.cs
+C:\repos\SqlConnectionSolution\PRSLibrary\obj\Debug\net6.0\PRSLibrary.csproj.CoreCompileInputs.cache
+C:\repos\SqlConnectionSolution\PRSLibrary\obj\Debug\net6.0\PRSLibrary.dll
+C:\repos\SqlConnectionSolution\PRSLibrary\obj\Debug\net6.0\refint\PRSLibrary.dll
+C:\repos\SqlConnectionSolution\PRSLibrary\obj\Debug\net6.0\PRSLibrary.pdb
+C:\repos\SqlConnectionSolution\PRSLibrary\obj\Debug\net6.0\ref\PRSLibrary.dll

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlConnection", "SqlConnection\SqlConnection.csproj", "{33E82C2F-5E46-4F62-8DA6-F590AD091235}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRSLibrary", "PRSLibrary\PRSLibrary.csproj", "{2D281A04-A048-4C28-90FD-D2B961C87185}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33E82C2F-5E46-4F62-8DA6-F590AD091235}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33E82C2F-5E46-4F62-8DA6-F590AD091235}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33E82C2F-5E46-4F62-8DA6-F590AD091235}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33E82C2F-5E46-4F62-8DA6-F590AD091235}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D281A04-A048-4C28-90FD-D2B961C87185}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D281A04-A048-4C28-90FD-D2B961C87185}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D281A04-A048-4C28-90FD-D2B961C87185}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D281A04-A048-4C28-90FD-D2B961C87185}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9434AD55-B9AB-4DB5-B1E4-1B67884D5162}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\repos\GenericCollections\GenericCollections\bin\Debug\net6.0\GenericCollections.exe
+C:\repos\GenericCollections\GenericCollections\bin\Debug\net6.0\GenericCollections.deps.json
+C:\repos\GenericCollections\GenericCollections\bin\Debug\net6.0\GenericCollections.runtimeconfig.json
+C:\repos\GenericCollections\GenericCollections\bin\Debug\net6.0\GenericCollections.dll
+C:\repos\GenericCollections\GenericCollections\bin\Debug\net6.0\GenericCollections.pdb
+C:\repos\GenericCollections\GenericCollections\obj\Debug\net6.0\GenericCollections.csproj.AssemblyReference.cache
+C:\repos\GenericCollections\GenericCollections\obj\Debug\net6.0\GenericCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\GenericCollections\GenericCollections\obj\Debug\net6.0\GenericCollections.AssemblyInfoInputs.cache
+C:\repos\GenericCollections\GenericCollections\obj\Debug\net6.0\GenericCollections.AssemblyInfo.cs
+C:\repos\GenericCollections\GenericCollections\obj\Debug\net6.0\GenericCollections.csproj.CoreCompileInputs.cache
+C:\repos\GenericCollections\GenericCollections\obj\Debug\net6.0\GenericCollections.dll
+C:\repos\GenericCollections\GenericCollections\obj\Debug\net6.0\refint\GenericCollections.dll
+C:\repos\GenericCollections\GenericCollections\obj\Debug\net6.0\GenericCollections.pdb
+C:\repos\GenericCollections\GenericCollections\obj\Debug\net6.0\GenericCollections.genruntimeconfig.cache
+C:\repos\GenericCollections\GenericCollections\obj\Debug\net6.0\ref\GenericCollections.dll

@@ -1,0 +1,15 @@
+C:\repos\FactorialTutorialSolution\FactorialTutorial\bin\Debug\net6.0\FactorialTutorial.exe
+C:\repos\FactorialTutorialSolution\FactorialTutorial\bin\Debug\net6.0\FactorialTutorial.deps.json
+C:\repos\FactorialTutorialSolution\FactorialTutorial\bin\Debug\net6.0\FactorialTutorial.runtimeconfig.json
+C:\repos\FactorialTutorialSolution\FactorialTutorial\bin\Debug\net6.0\FactorialTutorial.dll
+C:\repos\FactorialTutorialSolution\FactorialTutorial\bin\Debug\net6.0\FactorialTutorial.pdb
+C:\repos\FactorialTutorialSolution\FactorialTutorial\obj\Debug\net6.0\FactorialTutorial.csproj.AssemblyReference.cache
+C:\repos\FactorialTutorialSolution\FactorialTutorial\obj\Debug\net6.0\FactorialTutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\FactorialTutorialSolution\FactorialTutorial\obj\Debug\net6.0\FactorialTutorial.AssemblyInfoInputs.cache
+C:\repos\FactorialTutorialSolution\FactorialTutorial\obj\Debug\net6.0\FactorialTutorial.AssemblyInfo.cs
+C:\repos\FactorialTutorialSolution\FactorialTutorial\obj\Debug\net6.0\FactorialTutorial.csproj.CoreCompileInputs.cache
+C:\repos\FactorialTutorialSolution\FactorialTutorial\obj\Debug\net6.0\FactorialTutorial.dll
+C:\repos\FactorialTutorialSolution\FactorialTutorial\obj\Debug\net6.0\refint\FactorialTutorial.dll
+C:\repos\FactorialTutorialSolution\FactorialTutorial\obj\Debug\net6.0\FactorialTutorial.pdb
+C:\repos\FactorialTutorialSolution\FactorialTutorial\obj\Debug\net6.0\FactorialTutorial.genruntimeconfig.cache
+C:\repos\FactorialTutorialSolution\FactorialTutorial\obj\Debug\net6.0\ref\FactorialTutorial.dll

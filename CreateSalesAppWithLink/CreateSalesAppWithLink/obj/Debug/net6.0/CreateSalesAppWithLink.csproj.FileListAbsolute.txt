@@ -1,0 +1,5 @@
+C:\repos\CreateSalesAppWithLink\CreateSalesAppWithLink\obj\Debug\net6.0\CreateSalesAppWithLink.csproj.AssemblyReference.cache
+C:\repos\CreateSalesAppWithLink\CreateSalesAppWithLink\obj\Debug\net6.0\CreateSalesAppWithLink.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\CreateSalesAppWithLink\CreateSalesAppWithLink\obj\Debug\net6.0\CreateSalesAppWithLink.AssemblyInfoInputs.cache
+C:\repos\CreateSalesAppWithLink\CreateSalesAppWithLink\obj\Debug\net6.0\CreateSalesAppWithLink.AssemblyInfo.cs
+C:\repos\CreateSalesAppWithLink\CreateSalesAppWithLink\obj\Debug\net6.0\CreateSalesAppWithLink.csproj.CoreCompileInputs.cache

@@ -1,0 +1,5 @@
+C:\repos\MathLibrary\MathLibrary\obj\Debug\net6.0\MathLibrary.csproj.AssemblyReference.cache
+C:\repos\MathLibrary\MathLibrary\obj\Debug\net6.0\MathLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\MathLibrary\MathLibrary\obj\Debug\net6.0\MathLibrary.AssemblyInfoInputs.cache
+C:\repos\MathLibrary\MathLibrary\obj\Debug\net6.0\MathLibrary.AssemblyInfo.cs
+C:\repos\MathLibrary\MathLibrary\obj\Debug\net6.0\MathLibrary.csproj.CoreCompileInputs.cache

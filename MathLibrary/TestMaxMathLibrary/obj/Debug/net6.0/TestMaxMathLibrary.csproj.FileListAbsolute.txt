@@ -1,0 +1,6 @@
+C:\repos\MathLibrary\TestMaxMathLibrary\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\repos\MathLibrary\TestMaxMathLibrary\obj\Debug\net6.0\TestMaxMathLibrary.csproj.AssemblyReference.cache
+C:\repos\MathLibrary\TestMaxMathLibrary\obj\Debug\net6.0\TestMaxMathLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\MathLibrary\TestMaxMathLibrary\obj\Debug\net6.0\TestMaxMathLibrary.AssemblyInfoInputs.cache
+C:\repos\MathLibrary\TestMaxMathLibrary\obj\Debug\net6.0\TestMaxMathLibrary.AssemblyInfo.cs
+C:\repos\MathLibrary\TestMaxMathLibrary\obj\Debug\net6.0\TestMaxMathLibrary.csproj.CoreCompileInputs.cache

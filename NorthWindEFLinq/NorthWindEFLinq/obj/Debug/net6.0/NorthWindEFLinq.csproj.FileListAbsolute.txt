@@ -1,0 +1,14 @@
+C:\repos\NorthWindEFLinq\NorthWindEFLinq\bin\Debug\net6.0\NorthWindEFLinq.deps.json
+C:\repos\NorthWindEFLinq\NorthWindEFLinq\bin\Debug\net6.0\NorthWindEFLinq.runtimeconfig.json
+C:\repos\NorthWindEFLinq\NorthWindEFLinq\bin\Debug\net6.0\NorthWindEFLinq.dll
+C:\repos\NorthWindEFLinq\NorthWindEFLinq\bin\Debug\net6.0\NorthWindEFLinq.pdb
+C:\repos\NorthWindEFLinq\NorthWindEFLinq\obj\Debug\net6.0\NorthWindEFLinq.csproj.AssemblyReference.cache
+C:\repos\NorthWindEFLinq\NorthWindEFLinq\obj\Debug\net6.0\NorthWindEFLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\NorthWindEFLinq\NorthWindEFLinq\obj\Debug\net6.0\NorthWindEFLinq.AssemblyInfoInputs.cache
+C:\repos\NorthWindEFLinq\NorthWindEFLinq\obj\Debug\net6.0\NorthWindEFLinq.AssemblyInfo.cs
+C:\repos\NorthWindEFLinq\NorthWindEFLinq\obj\Debug\net6.0\NorthWindEFLinq.csproj.CoreCompileInputs.cache
+C:\repos\NorthWindEFLinq\NorthWindEFLinq\obj\Debug\net6.0\NorthWindEFLinq.dll
+C:\repos\NorthWindEFLinq\NorthWindEFLinq\obj\Debug\net6.0\refint\NorthWindEFLinq.dll
+C:\repos\NorthWindEFLinq\NorthWindEFLinq\obj\Debug\net6.0\NorthWindEFLinq.pdb
+C:\repos\NorthWindEFLinq\NorthWindEFLinq\obj\Debug\net6.0\NorthWindEFLinq.genruntimeconfig.cache
+C:\repos\NorthWindEFLinq\NorthWindEFLinq\obj\Debug\net6.0\ref\NorthWindEFLinq.dll

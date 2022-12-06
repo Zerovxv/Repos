@@ -1,0 +1,248 @@
+!SESSION 2022-09-29 15:57:09.716 -----------------------------------------------
+eclipse.buildId=4.14.0.202203131612
+java.version=17.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.jface 2 0 2022-09-29 15:57:23.498
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2022-09-29 15:57:23.498
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4c114687,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2a60981c,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2022-09-29 15:57:23.498
+!MESSAGE A conflict occurred for ALT+SHIFT+R:
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3f1fb139,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.rename,Rename,
+		Rename the selected item,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7057dbda,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2022-09-29 15:57:28.968
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\max-s'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-29 16:02:54.092
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-29 16:02:54.093
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@6b18f54b[org.springframework.tooling.boot.ls:1.32.0.202203131529(id=569)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-29 16:02:54.117
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-29 16:02:55.180
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-29 16:03:02.275
+!MESSAGE Boot LS startup time from start to initialized: 8148ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-29 16:03:02.397
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.CjcDwotHisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-29 16:03:02.399
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-29 16:03:02.401
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-29 16:03:02.402
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-29 16:03:02.403
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-29 16:03:02.403
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.CjcDwotH => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-29 16:03:02.406
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-29 16:03:02.406
+!MESSAGE buffering callback sts4.classpath.CjcDwotH TestHelloWorld false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-29 16:03:02.407
+!MESSAGE executing callback sts4.classpath.CjcDwotH 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-29 16:03:02.798
+!MESSAGE executing callback sts4.classpath.CjcDwotH SUCCESS [done]
+
+!ENTRY org.eclipse.ui 2 2 2022-09-29 16:03:35.392
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2022-09-29 16:08:08.244
+!MESSAGE No remedy found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2022-09-29 16:08:08.347
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2022-09-29 16:08:08.347
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2022-09-29 16:08:08.347
+!MESSAGE Software being installed: M2E - Maven Integration for Eclipse 2.0.5.20220912-1211 (org.eclipse.m2e.feature.feature.group 2.0.5.20220912-1211)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2022-09-29 16:08:08.347
+!MESSAGE Software currently installed: m2e connector for mavenarchiver pom properties 0.17.5.202002191804 (org.sonatype.m2e.mavenarchiver.feature.feature.group 0.17.5.202002191804)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2022-09-29 16:08:08.347
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-09-29 16:08:08.347
+!MESSAGE M2E JDT Integration 1.18.3.20211112-0847 (org.eclipse.m2e.jdt 1.18.3.20211112-0847)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-09-29 16:08:08.347
+!MESSAGE M2E JDT Integration 2.0.1.20220901-1459 (org.eclipse.m2e.jdt 2.0.1.20220901-1459)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2022-09-29 16:08:08.347
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-09-29 16:08:08.347
+!MESSAGE From: M2E - Maven Integration for Eclipse 2.0.5.20220912-1211 (org.eclipse.m2e.feature.feature.group 2.0.5.20220912-1211)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-09-29 16:08:08.347
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.m2e.jdt [2.0.1.20220901-1459,2.0.1.20220901-1459]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2022-09-29 16:08:08.347
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-09-29 16:08:08.347
+!MESSAGE From: m2e connector for the mavenarchiver and pom properties 0.17.5.202002191804 (org.sonatype.m2e.mavenarchiver 0.17.5.202002191804)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-09-29 16:08:08.347
+!MESSAGE To: osgi.bundle; org.eclipse.m2e.jdt [1.0.0,2.0.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2022-09-29 16:08:08.347
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-09-29 16:08:08.347
+!MESSAGE From: m2e connector for mavenarchiver pom properties 0.17.5.202002191804 (org.sonatype.m2e.mavenarchiver.feature.feature.group 0.17.5.202002191804)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-09-29 16:08:08.347
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.sonatype.m2e.mavenarchiver [0.17.5.202002191804,0.17.5.202002191804]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2022-09-29 16:08:08.423
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2022-09-29 16:08:08.423
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2022-09-29 16:08:08.423
+!MESSAGE Software being installed: M2E - Maven Integration for Eclipse 2.0.5.20220912-1211 (org.eclipse.m2e.feature.feature.group 2.0.5.20220912-1211)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2022-09-29 16:08:08.423
+!MESSAGE Software currently installed: m2e connector for mavenarchiver pom properties 0.17.5.202002191804 (org.sonatype.m2e.mavenarchiver.feature.feature.group 0.17.5.202002191804)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2022-09-29 16:08:08.423
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-09-29 16:08:08.423
+!MESSAGE M2E JDT Integration 1.18.3.20211112-0847 (org.eclipse.m2e.jdt 1.18.3.20211112-0847)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-09-29 16:08:08.423
+!MESSAGE M2E JDT Integration 2.0.1.20220901-1459 (org.eclipse.m2e.jdt 2.0.1.20220901-1459)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2022-09-29 16:08:08.423
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-09-29 16:08:08.423
+!MESSAGE From: M2E - Maven Integration for Eclipse 2.0.5.20220912-1211 (org.eclipse.m2e.feature.feature.group 2.0.5.20220912-1211)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-09-29 16:08:08.423
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.m2e.jdt [2.0.1.20220901-1459,2.0.1.20220901-1459]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2022-09-29 16:08:08.423
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-09-29 16:08:08.423
+!MESSAGE From: m2e connector for the mavenarchiver and pom properties 0.17.5.202002191804 (org.sonatype.m2e.mavenarchiver 0.17.5.202002191804)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-09-29 16:08:08.423
+!MESSAGE To: osgi.bundle; org.eclipse.m2e.jdt [1.0.0,2.0.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2022-09-29 16:08:08.423
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-09-29 16:08:08.423
+!MESSAGE From: m2e connector for mavenarchiver pom properties 0.17.5.202002191804 (org.sonatype.m2e.mavenarchiver.feature.feature.group 0.17.5.202002191804)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-09-29 16:08:08.423
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.sonatype.m2e.mavenarchiver [0.17.5.202002191804,0.17.5.202002191804]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2022-09-29 16:08:11.496
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2022-09-29 16:08:11.496
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2022-09-29 16:08:11.496
+!MESSAGE Software being installed: M2E - Maven Integration for Eclipse 2.0.5.20220912-1211 (org.eclipse.m2e.feature.feature.group 2.0.5.20220912-1211)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2022-09-29 16:08:11.496
+!MESSAGE Software currently installed: m2e connector for mavenarchiver pom properties 0.17.5.202002191804 (org.sonatype.m2e.mavenarchiver.feature.feature.group 0.17.5.202002191804)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2022-09-29 16:08:11.496
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-09-29 16:08:11.496
+!MESSAGE M2E JDT Integration 1.18.3.20211112-0847 (org.eclipse.m2e.jdt 1.18.3.20211112-0847)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-09-29 16:08:11.496
+!MESSAGE M2E JDT Integration 2.0.1.20220901-1459 (org.eclipse.m2e.jdt 2.0.1.20220901-1459)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2022-09-29 16:08:11.496
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-09-29 16:08:11.496
+!MESSAGE From: M2E - Maven Integration for Eclipse 2.0.5.20220912-1211 (org.eclipse.m2e.feature.feature.group 2.0.5.20220912-1211)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-09-29 16:08:11.496
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.m2e.jdt [2.0.1.20220901-1459,2.0.1.20220901-1459]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2022-09-29 16:08:11.496
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-09-29 16:08:11.496
+!MESSAGE From: m2e connector for the mavenarchiver and pom properties 0.17.5.202002191804 (org.sonatype.m2e.mavenarchiver 0.17.5.202002191804)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-09-29 16:08:11.497
+!MESSAGE To: osgi.bundle; org.eclipse.m2e.jdt [1.0.0,2.0.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2022-09-29 16:08:11.497
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-09-29 16:08:11.497
+!MESSAGE From: m2e connector for mavenarchiver pom properties 0.17.5.202002191804 (org.sonatype.m2e.mavenarchiver.feature.feature.group 0.17.5.202002191804)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-09-29 16:08:11.497
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.sonatype.m2e.mavenarchiver [0.17.5.202002191804,0.17.5.202002191804]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2022-09-29 16:08:11.498
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2022-09-29 16:08:11.498
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2022-09-29 16:08:11.498
+!MESSAGE Software being installed: M2E - Maven Integration for Eclipse 2.0.5.20220912-1211 (org.eclipse.m2e.feature.feature.group 2.0.5.20220912-1211)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2022-09-29 16:08:11.499
+!MESSAGE Software currently installed: m2e connector for mavenarchiver pom properties 0.17.5.202002191804 (org.sonatype.m2e.mavenarchiver.feature.feature.group 0.17.5.202002191804)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2022-09-29 16:08:11.499
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-09-29 16:08:11.499
+!MESSAGE M2E JDT Integration 1.18.3.20211112-0847 (org.eclipse.m2e.jdt 1.18.3.20211112-0847)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-09-29 16:08:11.499
+!MESSAGE M2E JDT Integration 2.0.1.20220901-1459 (org.eclipse.m2e.jdt 2.0.1.20220901-1459)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2022-09-29 16:08:11.499
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-09-29 16:08:11.499
+!MESSAGE From: M2E - Maven Integration for Eclipse 2.0.5.20220912-1211 (org.eclipse.m2e.feature.feature.group 2.0.5.20220912-1211)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-09-29 16:08:11.499
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.m2e.jdt [2.0.1.20220901-1459,2.0.1.20220901-1459]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2022-09-29 16:08:11.499
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-09-29 16:08:11.499
+!MESSAGE From: m2e connector for the mavenarchiver and pom properties 0.17.5.202002191804 (org.sonatype.m2e.mavenarchiver 0.17.5.202002191804)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-09-29 16:08:11.499
+!MESSAGE To: osgi.bundle; org.eclipse.m2e.jdt [1.0.0,2.0.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2022-09-29 16:08:11.499
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-09-29 16:08:11.499
+!MESSAGE From: m2e connector for mavenarchiver pom properties 0.17.5.202002191804 (org.sonatype.m2e.mavenarchiver.feature.feature.group 0.17.5.202002191804)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-09-29 16:08:11.499
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.sonatype.m2e.mavenarchiver [0.17.5.202002191804,0.17.5.202002191804]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-03 10:53:00.222
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.CjcDwotH
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-03 10:53:00.223
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.CjcDwotH
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-03 10:53:00.224
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-03 10:53:00.224
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.CjcDwotH => OK

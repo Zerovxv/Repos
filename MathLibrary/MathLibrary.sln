@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathLibrary", "MathLibrary\MathLibrary.csproj", "{90B47C78-03E4-43BC-81D7-EA19AD5C57D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMaxMathLibrary", "TestMaxMathLibrary\TestMaxMathLibrary.csproj", "{07CC5436-EB3D-4CA9-A00E-AC48048D97B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90B47C78-03E4-43BC-81D7-EA19AD5C57D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90B47C78-03E4-43BC-81D7-EA19AD5C57D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90B47C78-03E4-43BC-81D7-EA19AD5C57D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90B47C78-03E4-43BC-81D7-EA19AD5C57D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07CC5436-EB3D-4CA9-A00E-AC48048D97B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07CC5436-EB3D-4CA9-A00E-AC48048D97B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07CC5436-EB3D-4CA9-A00E-AC48048D97B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07CC5436-EB3D-4CA9-A00E-AC48048D97B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34353D85-C381-4151-BA8B-92456D38BAC1}
+	EndGlobalSection
+EndGlobal
